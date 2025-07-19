@@ -1,0 +1,17 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# App framework
+streamlit==1.35.0
+
+# Optional: For interactive maps or geospatial data later
+folium==0.16.0
+plotly==5.22.0
+
+# Optional: Used by some versions of pandas in CSV reading
+python-dateutil==2.9.0.post0
