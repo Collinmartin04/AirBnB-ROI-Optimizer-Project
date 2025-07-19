@@ -4,7 +4,7 @@ This project is a Streamlit dashboard that helps Airbnb hosts and investors **ma
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - 💰 **Top 10 most profitable neighborhoods** by average monthly revenue
 - 🛏️ **Revenue comparison by room type**
