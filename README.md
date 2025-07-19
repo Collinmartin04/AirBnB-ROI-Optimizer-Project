@@ -66,6 +66,6 @@ streamlit run app.py
 ---
 
 ## 📬 Contact
-Created by: Collin Martin
+Created by: Collin Martin 
 LinkedIn: https://www.linkedin.com/in/collin-martin-6461482b5/
 GitHub: https://github.com/Collinmartin04
